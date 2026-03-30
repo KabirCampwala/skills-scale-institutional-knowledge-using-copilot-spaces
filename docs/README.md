@@ -28,6 +28,9 @@ Quality assurance is embedded into day-to-day execution and release practices. O
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release readiness, deployment checklist, rollback planning, and post-deploy verification |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Sprint/project retros, action item tracking, and process improvement |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Descriptions of all roles involved in OctoAcme projects |
+| [RACI Matrix](octoacme-raci-matrix.md) | Responsibility matrix showing who is Responsible, Accountable, Consulted, and Informed for each lifecycle activity |
+| [Sprint Planning Template](octoacme-sprint-planning-template.md) | Reusable template for sprint planning meetings including agenda, capacity planning, and commitment tracking |
+| [New Team Member Onboarding Checklist](octoacme-onboarding-checklist.md) | Step-by-step checklist to onboard new team members within their first two weeks |
 
 ---
 

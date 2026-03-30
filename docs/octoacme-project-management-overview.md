@@ -37,7 +37,7 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## Communication Cadence
 - Weekly sync between PM + PdM
-- Twice-weekly standups for delivery team (or as agreed)
+- Daily standups for delivery team (15 min, focused on progress, blockers, dependencies)
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
 
