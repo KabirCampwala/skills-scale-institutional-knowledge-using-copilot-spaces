@@ -33,4 +33,4 @@ Quality assurance is embedded into day-to-day execution and release practices. O
 
 ## Contributing
 
-Have a suggestion or update for one of these process documents? Use the [Add/Update Content to Process Docs](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template to propose your changes. The template will guide you through describing the update, explaining why it is needed, and identifying which document(s) are affected. All contributions go through a review process to ensure content remains accurate and consistent with OctoAcme's practices.
+Have a suggestion or update for one of these process documents? Use the [Add/Update Content to Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template to propose your changes. The template will guide you through describing the update, explaining why it is needed, and identifying which document(s) are affected. All contributions go through a review process to ensure content remains accurate and consistent with OctoAcme's practices.
